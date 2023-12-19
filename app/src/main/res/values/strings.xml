@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trace File Manager</string>
+    <string name="dialog_content_delete">Are you sure you want to delete the file completely from this machine?</string>
+    <string name="dialog_content_recycle">Are you sure you want to move the file to the recycle bin?</string>
+</resources>
